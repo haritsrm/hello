@@ -1,0 +1,13 @@
+{
+    "status":"OK",
+    "code": 200,
+    "message": "Welcome to Cerebrum",
+    "__links": [
+            "https://cerebrum.id",
+            "https://app.cerebrum.id"
+        ],
+    "contacts": {
+        "email": null,
+        "phone": null
+    }
+}
